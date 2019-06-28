@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PCare+</string>
+    <string name="doctor_s_profile_pic">Doctor\'s Profile Pic</string>
+    <string name="biography">Biography</string>
+    <string name="demo_text">Dr. Yeap is a graduate of McGill University Faculty of Medicine. She completed her Internal Medicine residency at Beth Israel Deaconess Medical Center, a Harvard teaching hospital. She is board certified in Interna</string>
+    <string name="demo_residency">Residency: Stanford</string>
+    <string name="demo_practise">Practise: 11 Years</string>
+    <string name="demo_doc_name">Dr. Jane Doe</string>
+    <string name="demo_time_date">06/05/19 : 9:00 PM</string>
+    <string name="demo_confirm_text">Confirm your appointment with Dr. John Doe?</string>
+    <string name="close_dialog">Close Dialog</string>
+    <string name="calender">Calender</string>
+    <string name="demo_Rating">4.9</string>
+</resources>
